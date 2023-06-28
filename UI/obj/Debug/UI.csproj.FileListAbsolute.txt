@@ -1,0 +1,503 @@
+C:\Users\Luis\source\repos\CYBERFAC\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Luis\source\repos\CYBERFAC\UI\obj\Debug\RdlCompile.cache
+C:\Users\Luis\source\repos\CYBERFAC\UI\obj\Debug\RdlCompile.compiled
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\UI.dll.config
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\UI.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\UI.pdb
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\csc.exe
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\csc.exe.config
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\csc.rsp
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\csi.exe
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\csi.rsp
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\System.AppContext.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\vbc.exe
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\vbc.exe.config
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\vbc.rsp
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\BE.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\DA.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Newtonsoft.Json.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\stdole.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\BE.pdb
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\DA.pdb
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Newtonsoft.Json.xml
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis\source\repos\CYBERFAC\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\CYBERFAC\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Luis\source\repos\CYBERFAC\UI\obj\Debug\UI.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\obj\Debug\UI.pdb
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\EnvDTE.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.MSXML.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\DA.dll.config
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Comprobantes\Factura.rdlc
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\zxing.dll
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\BE.dll.config
+C:\Users\Luis\source\repos\CYBERFAC\UI\bin\zxing.xml
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Comprobantes\Factura.rdlc
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\UI.dll.config
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\UI.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\UI.pdb
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\csc.exe
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\csc.exe.config
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\csc.rsp
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\csi.exe
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\csi.rsp
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\System.AppContext.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\System.Collections.Immutable.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\System.IO.FileSystem.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\vbc.exe
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\vbc.exe.config
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\vbc.rsp
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\VBCSCompiler.exe
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\roslyn\VBCSCompiler.exe.config
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\BE.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\DA.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\MessagingToolkit.QRCode.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.ReportViewer.Common.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.ReportViewer.Design.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.ReportViewer.WebForms.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.ReportViewer.WinForms.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.SqlServer.Types.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Newtonsoft.Json.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\zxing.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\EnvDTE.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\stdole.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\BE.pdb
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\BE.dll.config
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\DA.pdb
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\DA.dll.config
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Newtonsoft.Json.xml
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\zxing.xml
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\obj\Debug\UI.csproj.CopyComplete
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\obj\Debug\UI.dll
+D:\0. PROYECTO CONTROL SALIDA\CYBERFAC\UI\obj\Debug\UI.pdb
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Comprobantes\Factura.rdlc
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\UI.dll.config
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\UI.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\UI.pdb
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\csc.exe
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\csc.exe.config
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\csc.rsp
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\csi.exe
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\csi.rsp
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\System.AppContext.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\System.Collections.Immutable.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\System.IO.FileSystem.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\vbc.exe
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\vbc.exe.config
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\vbc.rsp
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\VBCSCompiler.exe
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\roslyn\VBCSCompiler.exe.config
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\BE.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\DA.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\MessagingToolkit.QRCode.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.ReportViewer.Common.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.ReportViewer.Design.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.ReportViewer.WebForms.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.ReportViewer.WinForms.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.SqlServer.Types.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Newtonsoft.Json.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\zxing.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\EnvDTE.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\stdole.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\BE.pdb
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\BE.dll.config
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\DA.pdb
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\DA.dll.config
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Newtonsoft.Json.xml
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\zxing.xml
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\obj\Debug\UI.csproj.CopyComplete
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\obj\Debug\UI.dll
+D:\0. PROYECTO ECUADOR\CREDITOS\UI\obj\Debug\UI.pdb
+C:\Users\Luis\Documents\GIT\UI\bin\Comprobantes\Factura.rdlc
+C:\Users\Luis\Documents\GIT\UI\bin\UI.dll.config
+C:\Users\Luis\Documents\GIT\UI\bin\UI.dll
+C:\Users\Luis\Documents\GIT\UI\bin\UI.pdb
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\csc.exe
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\csc.exe.config
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\csc.rsp
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\csi.exe
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\csi.rsp
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\System.AppContext.dll
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\vbc.exe
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\vbc.exe.config
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\vbc.rsp
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis\Documents\GIT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis\Documents\GIT\UI\bin\BE.dll
+C:\Users\Luis\Documents\GIT\UI\bin\DA.dll
+C:\Users\Luis\Documents\GIT\UI\bin\MessagingToolkit.QRCode.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Luis\Documents\GIT\UI\bin\Newtonsoft.Json.dll
+C:\Users\Luis\Documents\GIT\UI\bin\zxing.dll
+C:\Users\Luis\Documents\GIT\UI\bin\EnvDTE.dll
+C:\Users\Luis\Documents\GIT\UI\bin\stdole.dll
+C:\Users\Luis\Documents\GIT\UI\bin\BE.pdb
+C:\Users\Luis\Documents\GIT\UI\bin\BE.dll.config
+C:\Users\Luis\Documents\GIT\UI\bin\DA.pdb
+C:\Users\Luis\Documents\GIT\UI\bin\DA.dll.config
+C:\Users\Luis\Documents\GIT\UI\bin\Newtonsoft.Json.xml
+C:\Users\Luis\Documents\GIT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis\Documents\GIT\UI\bin\zxing.xml
+C:\Users\Luis\Documents\GIT\UI\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Documents\GIT\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Luis\Documents\GIT\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\GIT\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Luis\Documents\GIT\UI\obj\Debug\UI.dll
+C:\Users\Luis\Documents\GIT\UI\obj\Debug\UI.pdb
